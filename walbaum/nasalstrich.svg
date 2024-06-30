@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.9970498mm"
+   height="2.6453171mm"
+   viewBox="0 0 5.99705 2.6453171"
+   version="1.1"
+   id="svg359"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="nasalstrich.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview361"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="7.9328542"
+     inkscape:cy="7.9991454"
+     inkscape:window-width="1846"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="1042"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs356" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-46.291748,-57.864685)">
+    <path
+       id="path603"
+       style="fill:#000000;stroke-width:0.1"
+       d="m 52.217485,57.864685 -1.005107,1.005107 c -0.251247,-0.222898 -1.095717,-0.933277 -1.658814,-0.933277 -0.666863,-10e-7 -1.261167,0.528396 -1.73271,0.999939 -0.547764,0.547764 -1.529106,1.572514 -1.529106,1.572514 0,0 1.065331,-0.999939 1.732194,-0.999939 0.667502,0 1.734261,1.000973 1.734261,1.000973 l 1.529623,-1.572514 1.000972,-1.000973 z" />
+  </g>
+</svg>
