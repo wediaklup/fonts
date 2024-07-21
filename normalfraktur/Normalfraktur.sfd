@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1270069200
-ModificationTime: 1721555040
+ModificationTime: 1721575101
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,6 +57,7 @@ OS2XHeight: 567
 OS2Vendor: 'lfsz'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: a000002f.1000e8ea.00008020.00000000
+Lookup: 4 0 0 "Ligaturen Substitution Nachschlagetabelle 12" { "Ligaturen Substitution Nachschlagetabelle 12-1"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > 'runr' <'dflt' > ) ]
 Lookup: 6 0 0 "'hlig' Historische Ligaturen in Lateinisch Nachschlagetabelle 0" { "'hlig' Historische Ligaturen in Lateinisch Nachschlagetabelle 0 kontextuelle 0"  "'hlig' Historische Ligaturen in Lateinisch Nachschlagetabelle 0 kontextuelle 1"  "'hlig' Historische Ligaturen in Lateinisch Nachschlagetabelle 0 kontextuelle 2"  "'hlig' Historische Ligaturen in Lateinisch Nachschlagetabelle 0 kontextuelle 3"  "'hlig' Historische Ligaturen in Lateinisch Nachschlagetabelle 0 kontextuelle 4"  "'hlig' Historische Ligaturen in Lateinisch Nachschlagetabelle 0 kontextuelle 5"  } ['hlig' ('latn' <'dflt' > ) ]
 Lookup: 6 0 0 "'hist' Historische Formen in Lateinisch Nachschlagetabelle 1" { "'hist' Historische Formen in Lateinisch Nachschlagetabelle 1 Subtabelle"  } ['hist' ('latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'salt' Stilistische Alternativformen in Lateinisch Nachschlagetabelle 2" { "'salt' Stilistische Alternativformen in Lateinisch Nachschlagetabelle 2 Subtabelle"  } ['salt' ('latn' <'dflt' > ) ]
@@ -26362,10 +26363,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 37 37 14
+WinInfo: 259 37 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65559 334
+BeginChars: 65559 335
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -26386,6 +26387,7 @@ SplineSet
  92 658 l 1,7,-1
  92 42 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: exclam
@@ -26491,6 +26493,7 @@ SplineSet
  195 14 195 14 184.5 1 c 128,-1,45
  174 -12 174 -12 169 -12 c 256,22,23
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotedbl
@@ -26592,6 +26595,7 @@ SplineSet
  294 719 294 719 308 707.5 c 128,-1,39
  322 696 322 696 322 667 c 0,20,21
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: numbersign
@@ -26794,6 +26798,7 @@ SplineSet
  334 475 l 1,31,-1
  204 475 l 1,28,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: percent
@@ -27056,6 +27061,7 @@ SplineSet
  272 481 272 481 277.5 503 c 128,-1,75
  283 525 283 525 283 545 c 0,56,57
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ampersand
@@ -27231,6 +27237,7 @@ SplineSet
  225 632 225 632 225 600 c 2,109,-1
  225 590 l 2,93,94
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: parenleft
@@ -27331,6 +27338,7 @@ SplineSet
  140 476 140 476 130.5 418 c 128,-1,24
  121 360 121 360 121 281 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: parenright
@@ -27449,6 +27457,7 @@ SplineSet
  178 86 178 86 188 144.5 c 128,-1,21
  198 203 198 203 198 281 c 256,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: asterisk
@@ -27589,6 +27598,7 @@ SplineSet
  316 468 316 468 307.5 457.5 c 128,-1,75
  299 447 299 447 286 447 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: plus
@@ -27664,6 +27674,7 @@ SplineSet
  313 329 l 1,11,-1
  526 329 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: hyphen
@@ -27728,6 +27739,7 @@ SplineSet
  139 169 l 1,7,-1
  116 216 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: period
@@ -27766,6 +27778,7 @@ SplineSet
  174 14 174 14 163.5 1 c 128,-1,23
  153 -12 153 -12 148 -12 c 256,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: slash
@@ -27782,6 +27795,7 @@ SplineSet
  355 700 l 1,3,-1
  410 700 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: zero
@@ -28055,6 +28069,7 @@ SplineSet
  153 568 153 568 143 506.5 c 128,-1,43
  133 445 133 445 133 349 c 0,24,25
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: one
@@ -28168,6 +28183,7 @@ SplineSet
  67 561 67 561 56.5 565.5 c 128,-1,49
  46 570 46 570 46 581 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: two
@@ -28282,6 +28298,7 @@ SplineSet
  407 192 407 192 409 215 c 128,-1,87
  411 238 411 238 420 238 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: three
@@ -28466,6 +28483,7 @@ SplineSet
  283 346 283 346 264.5 350 c 128,-1,93
  246 354 246 354 229 354 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: four
@@ -28676,6 +28694,7 @@ SplineSet
  281 526 l 1,55,-1
  98 232 l 1,53,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: five
@@ -28820,6 +28839,7 @@ SplineSet
  78 68 78 68 65 100 c 128,-1,83
  52 132 52 132 52 171 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: six
@@ -29019,6 +29039,7 @@ SplineSet
  198 98 198 98 217.5 87 c 128,-1,66
  237 76 237 76 259 76 c 0,49,50
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: seven
@@ -29161,6 +29182,7 @@ SplineSet
  125 62 125 62 123.5 86.5 c 128,-1,50
  122 111 122 111 122 131 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: eight
@@ -29410,6 +29432,7 @@ SplineSet
  136 588 136 588 136 545 c 2,76,-1
  136 535 l 2,60,61
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: colon
@@ -29471,6 +29494,7 @@ SplineSet
  167 353 167 353 156.5 340 c 128,-1,47
  146 327 146 327 141 327 c 256,24,25
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: less
@@ -29490,6 +29514,7 @@ SplineSet
  40 284 l 1,6,-1
  40 315 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: equal
@@ -29530,6 +29555,7 @@ SplineSet
  71 211 l 1,7,-1
  71 265 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: greater
@@ -29549,6 +29575,7 @@ SplineSet
  431 315 l 1,6,-1
  431 284 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: question
@@ -29738,6 +29765,7 @@ SplineSet
  254 14 254 14 243.5 1 c 128,-1,76
  233 -12 233 -12 228 -12 c 256,53,54
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: at
@@ -30010,6 +30038,7 @@ SplineSet
  365 361 365 361 357 330 c 128,-1,118
  349 299 349 299 349 251 c 0,98,99
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: A
@@ -30294,6 +30323,7 @@ SplineSet
  99 94 99 94 85.5 100 c 128,-1,145
  72 106 72 106 72 115 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: B
@@ -30578,6 +30608,7 @@ SplineSet
  377 630 377 630 368 612.5 c 128,-1,148
  359 595 359 595 355 576 c 1,127,128
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: C
@@ -30731,6 +30762,7 @@ SplineSet
  552 704 552 704 556 698 c 128,-1,112
  560 692 560 692 560 677 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: D
@@ -31015,6 +31047,7 @@ SplineSet
  588 57 588 57 544.5 22.5 c 128,-1,126
  501 -12 501 -12 447 -12 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: E
@@ -31203,6 +31236,7 @@ SplineSet
  64 163 64 163 48 233 c 128,-1,144
  32 303 32 303 32 380 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: F
@@ -31448,6 +31482,7 @@ SplineSet
  329 17 329 17 293.5 2.5 c 128,-1,140
  258 -12 258 -12 227 -12 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: G
@@ -31714,6 +31749,7 @@ SplineSet
  202 663 202 663 154.5 579.5 c 128,-1,142
  107 496 107 496 107 329 c 0,81,82
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: germandblS
@@ -31926,6 +31962,7 @@ SplineSet
  403 -7 403 -7 428 41.5 c 128,-1,98
  453 90 453 90 453 142 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C germandbls
 EndChar
 
@@ -32145,6 +32182,7 @@ SplineSet
  72 411 72 411 57.5 440 c 128,-1,132
  43 469 43 469 43 505 c 0,76,77
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: J
@@ -32343,6 +32381,7 @@ SplineSet
  72 411 72 411 57.5 440 c 128,-1,132
  43 469 43 469 43 505 c 0,76,77
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: K
@@ -32716,6 +32755,7 @@ SplineSet
  193 508 193 508 188 489 c 128,-1,154
  183 470 183 470 183 452 c 0,134,135
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: L
@@ -32890,6 +32930,7 @@ SplineSet
  422 16 422 16 391.5 -1.5 c 128,-1,104
  361 -19 361 -19 334 -19 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: M
@@ -33235,6 +33276,7 @@ SplineSet
  67 -12 67 -12 60 -12 c 0,215,216
  46 -12 46 -12 46 5 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: N
@@ -33467,6 +33509,7 @@ SplineSet
  460 47 460 47 450.5 82.5 c 128,-1,148
  441 118 441 118 441 170 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: O
@@ -33715,6 +33758,7 @@ SplineSet
  505 38 505 38 459 14.5 c 128,-1,103
  413 -9 413 -9 371 -9 c 256,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: P
@@ -34042,6 +34086,7 @@ SplineSet
  350 572 350 572 346 555 c 2,138,-1
  339 118 l 1,106,107
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Q
@@ -34300,6 +34345,7 @@ SplineSet
  467 16 467 16 434 3.5 c 128,-1,123
  401 -9 401 -9 371 -9 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: R
@@ -34565,6 +34611,7 @@ SplineSet
  524 631 524 631 505.5 649.5 c 128,-1,150
  487 668 487 668 458 668 c 0,129,130
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: S
@@ -34854,6 +34901,7 @@ SplineSet
  526 31 526 31 475 11 c 128,-1,95
  424 -9 424 -9 369 -9 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: T
@@ -35075,6 +35123,7 @@ SplineSet
  276 158 276 158 245.5 190.5 c 128,-1,133
  215 223 215 223 215 273 c 0,36,37
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: U
@@ -35300,6 +35349,7 @@ SplineSet
  163 55 163 55 137 62 c 128,-1,115
  111 69 111 69 91 69 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: V
@@ -35651,6 +35701,7 @@ SplineSet
  347 502 347 502 348.5 482 c 128,-1,150
  350 462 350 462 350 432 c 0,101,102
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: W
@@ -36101,6 +36152,7 @@ SplineSet
  301 248 301 248 276.5 223 c 128,-1,195
  252 198 252 198 224 175 c 1,164,165
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: X
@@ -36342,6 +36394,7 @@ SplineSet
  555 123 555 123 568.5 134.5 c 128,-1,135
  582 146 582 146 591 146 c 256,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Y
@@ -36588,6 +36641,7 @@ SplineSet
  584 530 584 530 589.5 468 c 128,-1,137
  595 406 595 406 595 352 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Z
@@ -36830,6 +36884,7 @@ SplineSet
  114 5 114 5 108.5 24.5 c 128,-1,122
  103 44 103 44 86 44 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: bracketleft
@@ -36950,6 +37005,7 @@ SplineSet
  70 700 l 1,7,-1
  244 700 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: backslash
@@ -36966,6 +37022,7 @@ SplineSet
  10 700 l 1,3,-1
  63 700 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bracketright
@@ -37108,6 +37165,7 @@ SplineSet
  219 -155 l 1,7,-1
  46 -155 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: asciicircum
@@ -37141,6 +37199,7 @@ SplineSet
  242 701 l 1,6,-1
  266 701 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: underscore
@@ -37199,6 +37258,7 @@ SplineSet
  514 -111 l 1,3,-1
  514 -155 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: grave
@@ -37225,6 +37285,7 @@ SplineSet
  80 700 l 1,3,-1
  206 535 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: a
@@ -37440,6 +37501,7 @@ SplineSet
  135 361 135 361 127 330 c 128,-1,80
  119 299 119 299 119 251 c 0,60,61
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: b
@@ -37680,6 +37742,7 @@ SplineSet
  147 114 147 114 149.5 106 c 128,-1,82
  152 98 152 98 161 96 c 0,59,60
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: c
@@ -37783,6 +37846,7 @@ SplineSet
  124 414 124 414 118 374 c 128,-1,51
  112 334 112 334 112 255 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: d
@@ -38028,6 +38092,7 @@ SplineSet
  127 376 127 376 127 370 c 2,74,-1
  127 107 l 1,56,57
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: e
@@ -38204,6 +38269,7 @@ SplineSet
  217 296 217 296 228.5 303 c 128,-1,61
  240 310 240 310 240 316 c 256,46,47
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: f
@@ -38391,6 +38457,7 @@ SplineSet
  29 394 29 394 18 397 c 128,-1,66
  7 400 7 400 7 408 c 0,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "Einzelne Substitution Nachschlagetabelle 9 Subtabelle" f
 Substitution2: "Einzelne Substitution Nachschlagetabelle 8 Subtabelle" f
 EndChar
@@ -38714,6 +38781,7 @@ SplineSet
  141 390 141 390 126.5 353 c 128,-1,85
  112 316 112 316 112 262 c 0,69,70
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: h
@@ -38951,6 +39019,7 @@ SplineSet
  235 -169 235 -169 228 -163.5 c 128,-1,100
  221 -158 221 -158 221 -147 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: i
@@ -39095,6 +39164,7 @@ SplineSet
  73 627 73 627 71 636.5 c 128,-1,63
  69 646 69 646 69 655 c 0,47,48
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: j
@@ -39276,6 +39346,7 @@ SplineSet
  74 627 74 627 72 636.5 c 128,-1,71
  70 646 70 646 70 655 c 0,55,56
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: k
@@ -39471,6 +39542,7 @@ SplineSet
  70 45 70 45 62.5 49 c 128,-1,106
  55 53 55 53 55 57 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: l
@@ -39597,6 +39669,7 @@ SplineSet
  46 52 46 52 37.5 56.5 c 128,-1,64
  29 61 29 61 29 67 c 0,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "Einzelne Substitution Nachschlagetabelle 8 Subtabelle" l
 EndChar
 
@@ -39902,6 +39975,7 @@ SplineSet
  163 21 163 21 156.5 6.5 c 128,-1,153
  150 -8 150 -8 144 -8 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: n
@@ -40143,6 +40217,7 @@ SplineSet
  62 49 62 49 56.5 54 c 128,-1,98
  51 59 51 59 51 63 c 256,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: o
@@ -40348,6 +40423,7 @@ SplineSet
  238 394 238 394 224.5 402.5 c 128,-1,63
  211 411 211 411 208 411 c 0,43,44
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: p
@@ -40611,6 +40687,7 @@ SplineSet
  351 310 351 310 334 356 c 128,-1,89
  317 402 317 402 285 402 c 0,70,71
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: q
@@ -40839,6 +40916,7 @@ SplineSet
  261 103 261 103 287 137 c 1,60,-1
  287 351 l 1,44,45
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: roundr
@@ -40977,6 +41055,7 @@ SplineSet
  259 85 259 85 265.5 89.5 c 128,-1,55
  272 94 272 94 274 94 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C r
 EndChar
 
@@ -41207,6 +41286,7 @@ SplineSet
  173 30 173 30 156 39 c 128,-1,117
  139 48 139 48 115 48 c 0,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "Einzelne Substitution Nachschlagetabelle 9 Subtabelle" s
 Substitution2: "Einzelne Substitution Nachschlagetabelle 8 Subtabelle" longs
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" longs uni200C
@@ -41343,6 +41423,7 @@ SplineSet
  58 57 58 57 51 61 c 128,-1,62
  44 65 44 65 44 70 c 256,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "Einzelne Substitution Nachschlagetabelle 9 Subtabelle" t
 Substitution2: "Einzelne Substitution Nachschlagetabelle 8 Subtabelle" t
 EndChar
@@ -41596,6 +41677,7 @@ SplineSet
  50 60 50 60 44 64 c 128,-1,102
  38 68 38 68 38 74 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: v
@@ -41817,6 +41899,7 @@ SplineSet
  289 327 289 327 270 361.5 c 128,-1,71
  251 396 251 396 219 396 c 0,55,56
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: w
@@ -42160,6 +42243,7 @@ SplineSet
  393 382 393 382 366 366 c 1,117,-1
  366 113 l 1,99,100
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: x
@@ -42324,6 +42408,7 @@ SplineSet
  111 -155 111 -155 76 -123 c 128,-1,104
  41 -91 41 -91 41 -31 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: y
@@ -42496,6 +42581,7 @@ SplineSet
  263 370 263 370 250.5 381.5 c 128,-1,86
  238 393 238 393 227 393 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: z
@@ -42711,6 +42797,7 @@ SplineSet
  91 58 91 58 79.5 26.5 c 128,-1,103
  68 -5 68 -5 68 -45 c 0,86,87
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: braceleft
@@ -42824,6 +42911,7 @@ SplineSet
  165 471 165 471 169.5 455 c 128,-1,54
  174 439 174 439 175 426 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bar
@@ -42892,6 +42980,7 @@ SplineSet
  145 0 l 1,3,-1
  100 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: braceright
@@ -43013,6 +43102,7 @@ SplineSet
  145 298 145 298 117 338 c 128,-1,54
  89 378 89 378 89 426 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: asciitilde
@@ -43057,6 +43147,7 @@ SplineSet
  413 240 413 240 394.5 232 c 128,-1,27
  376 224 376 224 358 224 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ellipsis
@@ -43119,6 +43210,7 @@ SplineSet
  1207 14 1207 14 1196.5 1 c 128,-1,71
  1186 -12 1186 -12 1181 -12 c 256,48,49
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C period
 EndChar
 
@@ -43242,6 +43334,7 @@ SplineSet
  421 482 421 482 408.5 468 c 128,-1,61
  396 454 396 454 367 454 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C seven three
 EndChar
 
@@ -43405,6 +43498,7 @@ SplineSet
  33 206 33 206 45.5 220 c 128,-1,113
  58 234 58 234 87 234 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: perthousand
@@ -43689,6 +43783,7 @@ SplineSet
  951 87 951 87 956.5 109 c 128,-1,111
  962 131 962 131 962 151 c 0,92,93
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C zero seven
 EndChar
 
@@ -43764,6 +43859,7 @@ SplineSet
  197 133 l 1,5,-1
  180 125 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C G
 EndChar
 
@@ -43817,6 +43913,7 @@ SplineSet
  200 158 200 158 192 151 c 128,-1,37
  184 144 184 144 180 144 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C zero two
 EndChar
 
@@ -43911,6 +44008,7 @@ SplineSet
  455 330 l 1,3,-1
  455 270 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C hyphen
 EndChar
 
@@ -44012,6 +44110,7 @@ SplineSet
  61 125 l 1,5,-1
  44 133 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C D
 EndChar
 
@@ -44109,6 +44208,7 @@ SplineSet
  84 416 l 1,7,-1
  84 700 l 1,4,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C zero six
 EndChar
 
@@ -44340,6 +44440,7 @@ SplineSet
  375 178 375 178 394.5 205.5 c 128,-1,111
  414 233 414 233 414 268 c 0,94,95
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: guillemotleft
@@ -44487,6 +44588,7 @@ SplineSet
  344 133 l 1,11,-1
  327 125 l 1,6,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C g
 EndChar
 
@@ -44618,6 +44720,7 @@ SplineSet
  201 502 201 502 204.5 520.5 c 128,-1,35
  208 539 208 539 208 556 c 256,16,17
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: plusminus
@@ -44711,6 +44814,7 @@ SplineSet
  45 28 l 1,15,-1
  45 88 l 1,12,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C zero three
 EndChar
 
@@ -44863,6 +44967,7 @@ SplineSet
  255 384 255 384 261 392 c 1,47,-1
  280 392 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: threesuperior
@@ -45007,6 +45112,7 @@ SplineSet
  138 508 138 508 129.5 504 c 128,-1,73
  121 500 121 500 109 500 c 256,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: acute
@@ -45035,6 +45141,7 @@ SplineSet
  24 535 l 1,3,-1
  150 700 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "'liga' Standard-Ligaturen in Lateinisch Nachschlagetabelle 5 Subtabelle" uni200C uni200C
 Substitution2: "'liga' Standard-Ligaturen in Lateinisch Nachschlagetabelle 4 Subtabelle" uni200C
 EndChar
@@ -45264,6 +45371,7 @@ SplineSet
  148 -125 148 -125 141 -140 c 128,-1,97
  134 -155 134 -155 127 -155 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: paragraph
@@ -45467,6 +45575,7 @@ SplineSet
  215 554 215 554 202.5 518.5 c 128,-1,37
  190 483 190 483 190 432 c 0,25,26
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: periodcentered
@@ -45495,6 +45604,7 @@ SplineSet
  174 247 174 247 163.5 234 c 128,-1,23
  153 221 153 221 148 221 c 256,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C zero one
 EndChar
 
@@ -45557,6 +45667,7 @@ SplineSet
  58 321 l 1,20,-1
  58 356 l 1,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: guillemotright
@@ -45708,6 +45819,7 @@ SplineSet
  209 125 l 1,11,-1
  192 133 l 1,6,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C d
 EndChar
 
@@ -45926,6 +46038,7 @@ SplineSet
  448 140 l 1,46,-1
  529 140 l 1,44,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C one four
 EndChar
 
@@ -46154,6 +46267,7 @@ SplineSet
  667 64 667 64 673 72 c 1,74,-1
  692 72 l 1,25,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C one two
 EndChar
 
@@ -46402,6 +46516,7 @@ SplineSet
  153 508 153 508 144.5 504 c 128,-1,99
  136 500 136 500 124 500 c 256,26,27
 EndSplineSet
+Validated: 33
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C three four
 EndChar
 
@@ -46735,6 +46850,7 @@ SplineSet
  379 799 379 799 377.5 813.5 c 128,-1,135
  376 828 376 828 376 834 c 0,120,121
 EndSplineSet
+Validated: 1
 Substitution2: "'salt' Stilistische Alternativformen in Lateinisch Nachschlagetabelle 2 Subtabelle" Oesup
 EndChar
 
@@ -46814,6 +46930,7 @@ SplineSet
  259 300 l 1,11,-1
  393 167 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C zero four
 EndChar
 
@@ -47132,6 +47249,7 @@ SplineSet
  163 55 163 55 137 62 c 128,-1,147
  111 69 111 69 91 69 c 0,32,33
 EndSplineSet
+Validated: 1
 Substitution2: "'salt' Stilistische Alternativformen in Lateinisch Nachschlagetabelle 2 Subtabelle" Uesup
 EndChar
 
@@ -47449,6 +47567,7 @@ SplineSet
  221 387 221 387 206.5 380.5 c 128,-1,128
  192 374 192 374 182 371 c 1,109,110
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: odieresis
@@ -47746,6 +47865,7 @@ SplineSet
  238 394 238 394 224.5 402.5 c 128,-1,95
  211 411 211 411 208 411 c 0,75,76
 EndSplineSet
+Validated: 1
 Substitution2: "'salt' Stilistische Alternativformen in Lateinisch Nachschlagetabelle 2 Subtabelle" oesup
 EndChar
 
@@ -48084,6 +48204,7 @@ SplineSet
  50 60 50 60 44 64 c 128,-1,134
  38 68 38 68 38 74 c 0,32,33
 EndSplineSet
+Validated: 1
 Substitution2: "'salt' Stilistische Alternativformen in Lateinisch Nachschlagetabelle 2 Subtabelle" uesup
 EndChar
 
@@ -48336,6 +48457,7 @@ SplineSet
  285 735 l 1,141,-1
  411 900 l 1,138,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: yacute
@@ -48507,6 +48629,7 @@ SplineSet
  164 584 l 1,90,-1
  290 749 l 1,87,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Egrave
@@ -48694,6 +48817,7 @@ SplineSet
  229 900 l 1,148,-1
  355 735 l 1,145,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Eacute
@@ -48881,6 +49005,7 @@ SplineSet
  311 735 l 1,148,-1
  437 900 l 1,145,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ecircumflex
@@ -49070,6 +49195,7 @@ SplineSet
  201 768 l 1,150,-1
  327 884 l 1,145,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Igrave
@@ -49299,6 +49425,7 @@ SplineSet
  273 900 l 1,136,-1
  399 735 l 1,133,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Iacute
@@ -49528,6 +49655,7 @@ SplineSet
  320 735 l 1,136,-1
  446 900 l 1,133,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Icircumflex
@@ -49759,6 +49887,7 @@ SplineSet
  194 768 l 1,138,-1
  320 884 l 1,133,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Ograve
@@ -49962,6 +50091,7 @@ SplineSet
  270 900 l 1,107,-1
  363 767 l 1,104,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Oacute
@@ -50159,6 +50289,7 @@ SplineSet
  335 769 l 1,107,-1
  427 900 l 1,104,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ocircumflex
@@ -50352,6 +50483,7 @@ SplineSet
  234 768 l 1,109,-1
  360 884 l 1,104,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ugrave
@@ -50582,6 +50714,7 @@ SplineSet
  249 900 l 1,119,-1
  375 735 l 1,116,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Uacute
@@ -50812,6 +50945,7 @@ SplineSet
  272 735 l 1,119,-1
  398 900 l 1,116,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ucircumflex
@@ -51044,6 +51178,7 @@ SplineSet
  207 768 l 1,121,-1
  333 884 l 1,116,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: agrave
@@ -51258,6 +51393,7 @@ SplineSet
  157 749 l 1,84,-1
  283 584 l 1,81,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: aacute
@@ -51472,6 +51608,7 @@ SplineSet
  164 584 l 1,84,-1
  290 749 l 1,81,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: acircumflex
@@ -51694,6 +51831,7 @@ SplineSet
  103 603 l 1,86,-1
  229 719 l 1,81,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: egrave
@@ -51875,6 +52013,7 @@ SplineSet
  145 749 l 1,65,-1
  271 584 l 1,62,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: eacute
@@ -52056,6 +52195,7 @@ SplineSet
  139 584 l 1,65,-1
  265 749 l 1,62,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ecircumflex
@@ -52239,6 +52379,7 @@ SplineSet
  71 603 l 1,67,-1
  197 719 l 1,62,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: iacute
@@ -52361,6 +52502,7 @@ SplineSet
  63 584 l 1,50,-1
  189 749 l 1,47,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: icircumflex
@@ -52491,6 +52633,7 @@ SplineSet
  2 603 l 1,52,-1
  128 719 l 1,47,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: igrave
@@ -52617,6 +52760,7 @@ SplineSet
  63 749 l 1,50,-1
  189 584 l 1,47,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ograve
@@ -52827,6 +52971,7 @@ SplineSet
  157 749 l 1,67,-1
  283 584 l 1,64,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: oacute
@@ -53037,6 +53182,7 @@ SplineSet
  153 584 l 1,67,-1
  279 749 l 1,64,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ocircumflex
@@ -53249,6 +53395,7 @@ SplineSet
  68 603 l 1,69,-1
  194 719 l 1,64,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ugrave
@@ -53505,6 +53652,7 @@ SplineSet
  177 749 l 1,106,-1
  303 584 l 1,103,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uacute
@@ -53765,6 +53913,7 @@ SplineSet
  203 584 l 1,106,-1
  329 749 l 1,103,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ucircumflex
@@ -54023,6 +54172,7 @@ SplineSet
  115 603 l 1,108,-1
  241 719 l 1,103,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: divide
@@ -54216,6 +54366,7 @@ SplineSet
  257 14 257 14 246.5 1 c 128,-1,51
  236 -12 236 -12 231 -12 c 256,28,29
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ccedilla
@@ -54388,6 +54539,7 @@ SplineSet
  552 704 552 704 556 698 c 128,-1,135
  560 692 560 692 560 677 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ccedilla
@@ -54506,6 +54658,7 @@ SplineSet
  124 414 124 414 118 374 c 128,-1,74
  112 334 112 334 112 255 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Otilde
@@ -54711,6 +54864,7 @@ SplineSet
  500 786 500 786 473 765.5 c 128,-1,127
  446 745 446 745 420 745 c 0,104,105
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: aring
@@ -54946,6 +55100,7 @@ SplineSet
  185 753 185 753 164.5 732 c 128,-1,112
  144 711 144 711 144 682 c 0,101,102
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Edieresis
@@ -55192,6 +55347,7 @@ SplineSet
  369 806 369 806 367.5 820.5 c 128,-1,176
  366 835 366 835 366 841 c 0,161,162
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Idieresis
@@ -55496,6 +55652,7 @@ SplineSet
  369 806 369 806 367.5 820.5 c 128,-1,164
  366 835 366 835 366 841 c 0,149,150
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: edieresis
@@ -55748,6 +55905,7 @@ SplineSet
  233 606 233 606 231.5 620.5 c 128,-1,93
  230 635 230 635 230 641 c 0,78,79
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: idieresis
@@ -55929,6 +56087,7 @@ SplineSet
  156 606 156 606 154.5 620.5 c 128,-1,78
  153 635 153 635 153 641 c 0,63,64
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: oe
@@ -56249,6 +56408,7 @@ SplineSet
  482 296 482 296 493.5 303 c 128,-1,120
  505 310 505 310 505 316 c 256,105,106
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: sterling
@@ -56473,6 +56633,7 @@ SplineSet
  3 364 l 1,114,-1
  3 413 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotesingle
@@ -56549,6 +56710,7 @@ SplineSet
  120 719 120 719 134 707.5 c 128,-1,19
  148 696 148 696 148 667 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: atilde
@@ -56765,6 +56927,7 @@ SplineSet
  356 631 356 631 329 610.5 c 128,-1,104
  302 590 302 590 276 590 c 0,81,82
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: otilde
@@ -56989,6 +57152,7 @@ SplineSet
  344 631 344 631 317 610.5 c 128,-1,87
  290 590 290 590 264 590 c 0,64,65
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: comma
@@ -57036,6 +57200,7 @@ SplineSet
  101 -154 101 -154 90 -154 c 0,24,25
  78 -154 78 -154 78 -142 c 256,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotedblright
@@ -57127,6 +57292,7 @@ SplineSet
  54 383 54 383 50 391.5 c 128,-1,47
  46 400 46 400 46 411 c 0,24,25
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotedblleft
@@ -57236,6 +57402,7 @@ SplineSet
  374 700 374 700 378 691.5 c 128,-1,47
  382 683 382 683 382 672 c 0,24,25
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C b
 EndChar
 
@@ -57293,6 +57460,7 @@ SplineSet
  230 700 230 700 237 696.5 c 128,-1,36
  244 693 244 693 244 682 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C B
 EndChar
 
@@ -57405,6 +57573,7 @@ SplineSet
  542 330 l 1,3,-1
  542 270 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C zero five
 EndChar
 
@@ -57647,6 +57816,7 @@ SplineSet
  367 735 l 1,149,-1
  493 900 l 1,146,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Acircumflex
@@ -57890,6 +58060,7 @@ SplineSet
  269 768 l 1,151,-1
  395 884 l 1,146,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Atilde
@@ -58145,6 +58316,7 @@ SplineSet
  532 786 532 786 505 765.5 c 128,-1,169
  478 745 478 745 452 745 c 0,146,147
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Adieresis
@@ -58527,6 +58699,7 @@ SplineSet
  439 785 439 785 437.5 799.5 c 128,-1,177
  436 814 436 814 436 820 c 0,162,163
 EndSplineSet
+Validated: 33
 Substitution2: "'salt' Stilistische Alternativformen in Lateinisch Nachschlagetabelle 2 Subtabelle" Aesup
 EndChar
 
@@ -58802,6 +58975,7 @@ SplineSet
  377 865 377 865 360.5 848 c 128,-1,177
  344 831 344 831 344 808 c 0,166,167
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Agrave
@@ -59043,6 +59217,7 @@ SplineSet
  317 900 l 1,149,-1
  443 735 l 1,146,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Ydieresis
@@ -59393,6 +59568,7 @@ SplineSet
  377 806 377 806 375.5 820.5 c 128,-1,169
  374 835 374 835 374 841 c 0,154,155
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Thorn
@@ -59769,6 +59945,7 @@ SplineSet
  380 234 l 1,107,-1
  438 234 l 2,95,96
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: florin
@@ -59892,6 +60069,7 @@ SplineSet
  66 108 66 108 77 164 c 2,43,-1
  123 399 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: circumflex
@@ -59979,6 +60157,7 @@ SplineSet
  49 584 l 1,5,-1
  175 700 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: dieresis
@@ -60096,6 +60275,7 @@ SplineSet
  246 606 246 606 244.5 620.5 c 128,-1,31
  243 635 243 635 243 641 c 0,16,17
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: cedilla
@@ -60143,6 +60323,7 @@ SplineSet
  125 0 l 1,15,-1
  178 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: tilde
@@ -60190,6 +60371,7 @@ SplineSet
  324 619 324 619 297 598.5 c 128,-1,23
  270 578 270 578 244 578 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Scaron
@@ -60527,6 +60709,7 @@ SplineSet
  350 767 l 1,102,-1
  326 767 l 1,96,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: scaron
@@ -60758,6 +60941,7 @@ SplineSet
  157 30 157 30 140 39 c 128,-1,124
  123 48 123 48 99 48 c 0,7,8
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Zcaron
@@ -61040,6 +61224,7 @@ SplineSet
  114 5 114 5 108.5 24.5 c 128,-1,129
  103 44 103 44 86 44 c 0,7,8
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: zcaron
@@ -61285,6 +61470,7 @@ SplineSet
  91 58 91 58 79.5 26.5 c 128,-1,110
  68 -5 68 -5 68 -45 c 0,93,94
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: longs
@@ -61412,6 +61598,7 @@ SplineSet
  20 395 20 395 16.5 397.5 c 128,-1,66
  13 400 13 400 13 409 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C s
 EndChar
 
@@ -61777,6 +61964,7 @@ SplineSet
  203 405 203 405 168 389 c 1,143,-1
  168 235 l 1,130,131
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" t z
 LCarets2: 1 234
 EndChar
@@ -62009,6 +62197,7 @@ SplineSet
  104 354 104 354 96.5 336.5 c 128,-1,50
  89 319 89 319 89 300 c 0,31,32
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ordfeminine
@@ -62402,6 +62591,7 @@ SplineSet
  36 260 l 1,35,-1
  36 309 l 1,32,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: logicalnot
@@ -62443,6 +62633,7 @@ SplineSet
  435 326 l 1,5,-1
  435 175 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: macron
@@ -62480,6 +62671,7 @@ SplineSet
  321 700 l 1,3,-1
  321 648 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ordmasculine
@@ -62734,6 +62926,7 @@ SplineSet
  36 260 l 1,43,-1
  36 309 l 1,40,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: questiondown
@@ -62893,6 +63086,7 @@ SplineSet
  279 536 279 536 289.5 549 c 128,-1,76
  300 562 300 562 305 562 c 256,53,54
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ntilde
@@ -63161,6 +63355,7 @@ SplineSet
  397 631 397 631 370 610.5 c 128,-1,122
  343 590 343 590 317 590 c 0,99,100
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: thorn
@@ -63358,6 +63553,7 @@ SplineSet
  177 426 177 426 161 424 c 1,63,-1
  161 130 l 1,50,51
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ydieresis
@@ -63608,6 +63804,7 @@ SplineSet
  262 606 262 606 260.5 620.5 c 128,-1,118
  259 635 259 635 259 641 c 0,103,104
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Eth
@@ -63844,6 +64041,7 @@ SplineSet
  223 313 l 1,128,-1
  223 358 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ntilde
@@ -64095,6 +64293,7 @@ SplineSet
  513 786 513 786 486 765.5 c 128,-1,172
  459 745 459 745 433 745 c 0,149,150
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: AE
@@ -64279,6 +64478,7 @@ SplineSet
  983 704 983 704 987 698 c 128,-1,224
  991 692 991 692 991 677 c 0,0,1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: Oslash
@@ -64596,6 +64796,7 @@ SplineSet
  561 201 561 201 575.5 244 c 128,-1,114
  590 287 590 287 590 321 c 0,103,104
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: OE
@@ -64900,6 +65101,7 @@ SplineSet
  555 256 555 256 550.5 296.5 c 128,-1,248
  546 337 546 337 546 380 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: exclamdown
@@ -64997,6 +65199,7 @@ SplineSet
  227 -114 227 -114 208.5 -134 c 128,-1,45
  190 -154 190 -154 168 -154 c 256,24,25
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: c_h
@@ -65342,6 +65545,7 @@ SplineSet
  129 420 129 420 124 377 c 128,-1,147
  119 334 119 334 119 255 c 0,124,125
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" c h
 LCarets2: 1 341
 EndChar
@@ -65453,6 +65657,7 @@ SplineSet
  106 -176 106 -176 99 -172.5 c 128,-1,60
  92 -169 92 -169 92 -158 c 0,24,25
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: nine
@@ -65700,6 +65905,7 @@ SplineSet
  310 603 310 603 292 628 c 128,-1,66
  274 653 274 653 248 653 c 0,51,52
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: adieresis
@@ -65997,6 +66203,7 @@ SplineSet
  260 597 260 597 258.5 611.5 c 128,-1,112
  257 626 257 626 257 632 c 0,97,98
 EndSplineSet
+Validated: 33
 Substitution2: "'salt' Stilistische Alternativformen in Lateinisch Nachschlagetabelle 2 Subtabelle" aesup
 EndChar
 
@@ -66240,6 +66447,7 @@ SplineSet
  459 296 459 296 470.5 303 c 128,-1,110
  482 310 482 310 482 316 c 256,95,96
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: oslash
@@ -66585,6 +66793,7 @@ SplineSet
  290 171 290 171 291.5 199 c 128,-1,69
  293 227 293 227 293 242 c 0,58,59
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: eth
@@ -66801,6 +67010,7 @@ SplineSet
  127 376 127 376 127 370 c 2,82,-1
  127 107 l 1,64,65
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: cent
@@ -67012,6 +67222,7 @@ SplineSet
  124 414 124 414 118 374 c 128,-1,59
  112 334 112 334 112 255 c 0,47,48
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotesinglbase
@@ -67074,6 +67285,7 @@ SplineSet
  106 -176 106 -176 99 -172.5 c 128,-1,36
  92 -169 92 -169 92 -158 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C V
 EndChar
 
@@ -67168,6 +67380,7 @@ SplineSet
  235 -177 235 -177 231 -168.5 c 128,-1,47
  227 -160 227 -160 227 -149 c 0,24,25
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C v
 EndChar
 
@@ -67654,6 +67867,7 @@ SplineSet
  383 420 383 420 378 377 c 128,-1,220
  373 334 373 334 373 255 c 0,197,198
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" s c h
 LCarets2: 2 314 628
 EndChar
@@ -67918,6 +68132,7 @@ SplineSet
  124 414 124 414 118 374 c 128,-1,139
  112 334 112 334 112 255 c 0,116,117
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" c k
 LCarets2: 1 259
 EndChar
@@ -68200,6 +68415,7 @@ SplineSet
  288 57 288 57 281 61 c 128,-1,119
  274 65 274 65 274 70 c 256,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" f t
 LCarets2: 1 269
 EndChar
@@ -68436,6 +68652,7 @@ SplineSet
  50 52 50 52 42 54 c 0,112,113
  29 57 29 57 29 67 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" l l
 LCarets2: 1 271
 EndChar
@@ -68717,6 +68934,7 @@ SplineSet
  198 83 198 83 206.5 79 c 128,-1,95
  215 75 215 75 220 75 c 0,83,84
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" t t
 LCarets2: 1 269
 EndChar
@@ -69077,6 +69295,7 @@ SplineSet
  29 394 29 394 18 397 c 128,-1,121
  7 400 7 400 7 408 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 10 Subtabelle" f f
 LCarets2: 1 254
 EndChar
@@ -69358,6 +69577,7 @@ SplineSet
  310 45 310 45 302.5 49 c 128,-1,173
  295 53 295 53 295 57 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" s k
 LCarets2: 1 274
 EndChar
@@ -69428,6 +69648,7 @@ SplineSet
  106 369 106 369 99 372.5 c 128,-1,36
  92 376 92 376 92 387 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C quotesingle
 EndChar
 
@@ -69669,6 +69890,7 @@ SplineSet
  297 57 297 57 290 61 c 128,-1,135
  283 65 283 65 283 70 c 256,73,74
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" s t
 LCarets2: 1 274
 EndChar
@@ -69931,6 +70153,7 @@ SplineSet
  316 627 316 627 314 636.5 c 128,-1,117
  312 646 312 646 312 655 c 0,101,102
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" f i
 LCarets2: 1 249
 EndChar
@@ -70255,6 +70478,7 @@ SplineSet
  529 57 529 57 522 61 c 128,-1,174
  515 65 515 65 515 70 c 256,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" f f t
 LCarets2: 2 260 520
 EndChar
@@ -70515,6 +70739,7 @@ SplineSet
  287 52 287 52 278.5 56.5 c 128,-1,127
  270 61 270 61 270 67 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" f l
 LCarets2: 1 249
 EndChar
@@ -70797,6 +71022,7 @@ SplineSet
  260 395 260 395 256.5 397.5 c 128,-1,139
  253 400 253 400 253 409 c 0,73,74
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" s s
 LCarets2: 1 242
 EndChar
@@ -71269,6 +71495,7 @@ SplineSet
  558 627 558 627 556 636.5 c 128,-1,175
  554 646 554 646 554 655 c 0,159,160
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" f f i
 LCarets2: 2 247 494
 EndChar
@@ -71522,6 +71749,7 @@ SplineSet
  296 52 296 52 287.5 56.5 c 128,-1,134
  279 61 279 61 279 67 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" s l
 LCarets2: 1 264
 EndChar
@@ -71832,6 +72060,7 @@ SplineSet
  107 590 107 590 106.5 581 c 128,-1,190
  106 572 106 572 106 569 c 0,118,119
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 11 Subtabelle" longs longs
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 11 Subtabelle" longs s
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 11 Subtabelle" s longs
@@ -72176,6 +72405,7 @@ SplineSet
  471 -184 471 -184 464 -178.5 c 128,-1,170
  457 -173 457 -173 457 -162 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" s h
 LCarets2: 1 356
 EndChar
@@ -72526,6 +72756,7 @@ SplineSet
  537 56 537 56 530 60 c 128,-1,208
  523 64 523 64 523 69 c 256,146,147
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 10 Subtabelle" s s t
 LCarets2: 2 262 524
 EndChar
@@ -72764,6 +72995,7 @@ SplineSet
  205 -66 205 -66 193 -48 c 128,-1,140
  181 -30 181 -30 181 -5 c 0,0,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: r
@@ -72924,6 +73156,7 @@ SplineSet
  76 48 76 48 66.5 52.5 c 128,-1,85
  57 57 57 57 57 63 c 0,0,1
 EndSplineSet
+Validated: 1
 Substitution2: "Einzelne Substitution Nachschlagetabelle 8 Subtabelle" roundr
 EndChar
 
@@ -73206,6 +73439,7 @@ SplineSet
  325 627 325 627 323 636.5 c 128,-1,138
  321 646 321 646 321 655 c 0,122,123
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" s i
 LCarets2: 1 254
 EndChar
@@ -73619,6 +73853,7 @@ SplineSet
  347 590 347 590 346.5 581 c 128,-1,211
  346 572 346 572 346 569 c 0,139,140
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 10 Subtabelle" s s i
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" longs s i
 LCarets2: 2 249 498
@@ -74028,6 +74263,7 @@ SplineSet
  163 21 163 21 156.5 6.5 c 128,-1,157
  150 -8 150 -8 144 -8 c 0,4,5
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C m m
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" m m
 EndChar
@@ -74373,6 +74609,7 @@ SplineSet
  62 49 62 49 56.5 54 c 128,-1,102
  51 59 51 59 51 63 c 256,4,5
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C n n
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" n n
 EndChar
@@ -74560,6 +74797,7 @@ SplineSet
  172 654 172 654 145 624.5 c 128,-1,59
  118 595 118 595 118 552 c 0,53,54
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Euro
@@ -74793,6 +75031,7 @@ SplineSet
  483 452 l 1,53,-1
  465 374 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: trademark
@@ -74936,6 +75175,7 @@ SplineSet
  351 700 l 1,65,-1
  466 700 l 1,26,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: yen
@@ -75072,6 +75312,7 @@ SplineSet
  60 419 l 1,65,-1
  60 460 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: copyright
@@ -75199,6 +75440,8 @@ SplineSet
  291 541 291 541 327 559.5 c 128,-1,76
  363 578 363 578 402 578 c 0,40,41
 EndSplineSet
+Validated: 1
+LCarets2: 2 0 0
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C zero eight
 EndChar
 
@@ -75460,6 +75703,7 @@ SplineSet
  222 96 222 96 276.5 72 c 128,-1,66
  331 48 331 48 393 48 c 256,47,48
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C zero nine
 EndChar
 
@@ -75469,6 +75713,8 @@ Width: 260
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: NULL
@@ -75477,6 +75723,8 @@ Width: 0
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: nonmarkingreturn
@@ -75485,6 +75733,8 @@ Width: 323
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uni00AD
@@ -75549,6 +75799,7 @@ SplineSet
  139 169 l 1,7,-1
  116 216 l 1,4,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C one zero
 EndChar
 
@@ -75558,6 +75809,8 @@ Width: 260
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C five space
 EndChar
 
@@ -75751,6 +76004,7 @@ SplineSet
  391 896 391 896 375 882.5 c 128,-1,189
  359 869 359 869 359 849 c 0,176,177
 EndSplineSet
+Validated: 33
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C Adieresis
 EndChar
 
@@ -75906,6 +76160,7 @@ SplineSet
  338 916 338 916 322 902.5 c 128,-1,147
  306 889 306 889 306 869 c 0,134,135
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C Odieresis
 EndChar
 
@@ -76070,6 +76325,7 @@ SplineSet
  319 878 319 878 303 864.5 c 128,-1,159
  287 851 287 851 287 831 c 0,146,147
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C Udieresis
 EndChar
 
@@ -76199,6 +76455,8 @@ SplineSet
  205 713 205 713 189 699.5 c 128,-1,124
  173 686 173 686 173 666 c 0,111,112
 EndSplineSet
+Validated: 33
+Ligature2: "Ligaturen Substitution Nachschlagetabelle 12-1" a uni0364
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C adieresis
 EndChar
 
@@ -76314,6 +76572,8 @@ SplineSet
  193 713 193 713 177 699.5 c 128,-1,107
  161 686 161 686 161 666 c 0,94,95
 EndSplineSet
+Validated: 1
+Ligature2: "Ligaturen Substitution Nachschlagetabelle 12-1" o uni0364
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C odieresis
 EndChar
 
@@ -76457,6 +76717,8 @@ SplineSet
  227 688 227 688 211 674.5 c 128,-1,146
  195 661 195 661 195 641 c 0,133,134
 EndSplineSet
+Validated: 1
+Ligature2: "Ligaturen Substitution Nachschlagetabelle 12-1" u uni0364
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C udieresis
 EndChar
 
@@ -76466,6 +76728,8 @@ Width: 150
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C two space
 EndChar
 
@@ -76475,6 +76739,8 @@ Width: 30
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C one space
 EndChar
 
@@ -76484,6 +76750,8 @@ Width: 0
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C zero space
 EndChar
 
@@ -76493,6 +76761,8 @@ Width: 0
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uni200D
@@ -76501,6 +76771,8 @@ Width: 0
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uni200E
@@ -76509,6 +76781,8 @@ Width: 0
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: uniEA89
@@ -76575,6 +76849,7 @@ SplineSet
  680 24 680 24 665 9 c 128,-1,67
  650 -6 650 -6 627 -6 c 256,56,57
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" e t c period
 EndChar
 
@@ -76640,6 +76915,7 @@ SplineSet
  139 169 l 1,7,-1
  116 216 l 1,4,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C one one
 EndChar
 
@@ -76649,6 +76925,8 @@ Width: 129
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C four space
 EndChar
 
@@ -76658,6 +76936,8 @@ Width: 0
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C three space
 EndChar
 
@@ -76683,6 +76963,7 @@ SplineSet
  617 715 l 1,11,-1
  356 411 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C seven one
 EndChar
 
@@ -76708,6 +76989,7 @@ SplineSet
  356 304 l 1,11,-1
  617 0 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C seven two
 EndChar
 
@@ -76725,6 +77007,7 @@ SplineSet
  0 247 l 1,3,-1
  0 287 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C three zero
 EndChar
 
@@ -76747,6 +77030,7 @@ SplineSet
  194 754 l 1,7,-1
  251 754 l 1,4,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C three two
 EndChar
 
@@ -76764,6 +77048,7 @@ SplineSet
  90 -200 l 1,3,-1
  50 -200 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C three one
 EndChar
 
@@ -76827,6 +77112,7 @@ SplineSet
  106 538 106 538 79 476 c 128,-1,58
  52 414 52 414 52 344 c 0,39,40
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C five eight
 EndChar
 
@@ -76852,6 +77138,7 @@ SplineSet
  725 241 l 1,11,-1
  76 241 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C one five
 EndChar
 
@@ -76877,6 +77164,7 @@ SplineSet
  343 -104 l 1,11,-1
  343 545 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C one six
 EndChar
 
@@ -76902,6 +77190,7 @@ SplineSet
  665 241 l 1,11,-1
  16 241 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C one three
 EndChar
 
@@ -76927,6 +77216,7 @@ SplineSet
  343 -44 l 1,11,-1
  343 605 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C one seven
 EndChar
 
@@ -76952,6 +77242,7 @@ SplineSet
  528 455 l 1,11,-1
  69 -4 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C one eight
 EndChar
 
@@ -76981,6 +77272,7 @@ SplineSet
  353 481 l 1,15,-1
  213 54 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C two zero
 EndChar
 
@@ -77017,6 +77309,7 @@ SplineSet
  83 279 83 279 66 205 c 1,26,-1
  10 218 l 1,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C two one
 EndChar
 
@@ -77055,6 +77348,7 @@ SplineSet
  675 117 l 1,23,-1
  76 117 l 1,12,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C one nine
 EndChar
 
@@ -77083,6 +77377,7 @@ SplineSet
  292 406 l 1,13,-1
  84 406 l 1,7,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C two two
 EndChar
 
@@ -77129,6 +77424,7 @@ SplineSet
  232 330 232 330 203 339.5 c 128,-1,43
  174 349 174 349 156 349 c 0,22,23
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C three seven
 EndChar
 
@@ -77156,6 +77452,7 @@ SplineSet
  17 18 l 1,11,-1
  17 74 l 1,8,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C three eight
 EndChar
 
@@ -77175,6 +77472,7 @@ SplineSet
  29 268 l 1,5,-1
  400 638 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C two five
 EndChar
 
@@ -77194,6 +77492,7 @@ SplineSet
  59 638 l 1,5,-1
  430 268 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C two six
 EndChar
 
@@ -77246,6 +77545,7 @@ SplineSet
  136 460 136 460 115.5 412.5 c 128,-1,48
  95 365 95 365 95 311 c 0,37,38
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C six eight
 EndChar
 
@@ -77317,6 +77617,7 @@ SplineSet
  131 830 131 830 157 846 c 1,71,-1
  191 797 l 1,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C four zero
 EndChar
 
@@ -77386,6 +77687,7 @@ SplineSet
  734 152 734 152 694 210 c 128,-1,65
  654 268 654 268 654 349 c 0,50,51
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C six nine
 EndChar
 
@@ -77439,6 +77741,7 @@ SplineSet
  237 243 l 1,45,-1
  208 304 l 1,40,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C seven zero
 EndChar
 
@@ -77458,6 +77761,7 @@ SplineSet
  188 -195 l 1,5,-1
  16 265 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C two seven
 EndChar
 
@@ -77477,6 +77781,7 @@ SplineSet
  311 264 l 1,5,-1
  139 -196 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C two eight
 EndChar
 
@@ -77498,6 +77803,7 @@ SplineSet
  18 -40 l 1,7,-1
  65 -40 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C five two
 EndChar
 
@@ -77533,6 +77839,7 @@ SplineSet
  802 417 l 1,20,-1
  564 185 l 1,12,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C five three
 EndChar
 
@@ -77592,6 +77899,7 @@ SplineSet
  123 598 l 1,37,-1
  123 635 l 1,34,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C seven six
 EndChar
 
@@ -77638,6 +77946,7 @@ SplineSet
  340 266 l 1,39,-1
  340 701 l 1,36,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C six one
 EndChar
 
@@ -77686,6 +77995,7 @@ SplineSet
  702 211 702 211 685.5 227.5 c 128,-1,47
  669 244 669 244 669 268 c 256,36,37
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C two nine
 EndChar
 
@@ -77706,6 +78016,7 @@ SplineSet
  50 580 l 1,5,-1
  50 -43 l 1,3,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C two three
 EndChar
 
@@ -77728,6 +78039,7 @@ SplineSet
  420 310 l 1,7,-1
  247 580 l 1,4,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C four six
 EndChar
 
@@ -77791,6 +78103,7 @@ SplineSet
  121 468 121 468 99 417 c 128,-1,59
  77 366 77 366 77 308 c 0,40,41
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C four four
 EndChar
 
@@ -77837,6 +78150,7 @@ SplineSet
  121 468 121 468 99 417 c 128,-1,39
  77 366 77 366 77 308 c 0,20,21
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C four three
 EndChar
 
@@ -77898,6 +78212,7 @@ SplineSet
  331 187 l 1,47,-1
  331 2 l 1,39,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C eight one
 EndChar
 
@@ -77927,6 +78242,7 @@ SplineSet
  85 125 85 125 59.5 183.5 c 128,-1,19
  34 242 34 242 34 308 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C four five
 EndChar
 
@@ -78013,6 +78329,7 @@ SplineSet
  175 378 175 378 145 332.5 c 128,-1,81
  115 287 115 287 115 227 c 0,66,67
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C eight four
 EndChar
 
@@ -78047,6 +78364,7 @@ SplineSet
  733 382 l 1,19,-1
  525 382 l 1,10,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C four eight
 EndChar
 
@@ -78072,6 +78390,7 @@ SplineSet
  68 619 l 1,11,-1
  374 312 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C four nine
 EndChar
 
@@ -78165,6 +78484,7 @@ SplineSet
  475 98 475 98 447 104 c 2,97,-1
  323 121 l 1,26,27
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C two four
 EndChar
 
@@ -78192,6 +78512,7 @@ SplineSet
  -201 -11 l 1,11,-1
  -201 45 l 1,8,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C three nine
 EndChar
 
@@ -78262,6 +78583,7 @@ SplineSet
  607 331 607 331 647 311 c 1,71,-1
  576 541 l 1,38,39
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C eight two
 EndChar
 
@@ -78336,6 +78658,7 @@ SplineSet
  275 217 275 217 199 176 c 1,76,-1
  199 196 l 1,64,65
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C six zero
 EndChar
 
@@ -78410,6 +78733,7 @@ SplineSet
  235 194 235 194 198 238 c 1,76,-1
  198 258 l 1,64,65
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C five nine
 EndChar
 
@@ -78476,6 +78800,7 @@ SplineSet
  351 676 351 676 332.5 657 c 128,-1,63
  314 638 314 638 314 611 c 256,52,53
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C five six
 EndChar
 
@@ -78633,6 +78958,7 @@ SplineSet
  422 656 l 1,174,-1
  371 656 l 1,107,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C five five
 EndChar
 
@@ -78673,6 +78999,7 @@ SplineSet
  452 72 l 1,27,-1
  392 133 l 1,24,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C five four
 EndChar
 
@@ -78766,6 +79093,7 @@ SplineSet
  172 714 172 714 187.5 697 c 128,-1,103
  203 680 203 680 203 655 c 256,92,93
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C eight zero
 EndChar
 
@@ -78841,6 +79169,7 @@ SplineSet
  639 470 639 470 597 470 c 0,81,82
  534 470 534 470 482 436 c 1,62,63
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C seven four
 EndChar
 
@@ -78926,6 +79255,7 @@ SplineSet
  784 78 784 78 820 61.5 c 128,-1,83
  856 45 856 45 896 45 c 256,64,65
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C seven five
 EndChar
 
@@ -79007,6 +79337,7 @@ SplineSet
  158 79 158 79 193.5 62.5 c 128,-1,81
  229 46 229 46 268 46 c 0,62,63
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni26BF
@@ -79084,6 +79415,7 @@ SplineSet
  379 487 379 487 356 510 c 128,-1,83
  333 533 333 533 333 566 c 256,72,73
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C six two
 EndChar
 
@@ -79160,6 +79492,7 @@ SplineSet
  277 129 277 129 271 114.5 c 128,-1,79
  265 100 265 100 265 88 c 0,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C seven seven
 EndChar
 
@@ -79195,6 +79528,7 @@ SplineSet
  354 294 l 1,17,-1
  94 523 l 1,15,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C seven eight
 EndChar
 
@@ -79276,6 +79610,7 @@ SplineSet
  526 505 526 505 542.5 514.5 c 128,-1,84
  559 524 559 524 559 552 c 0,69,70
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C six five
 EndChar
 
@@ -79300,6 +79635,7 @@ SplineSet
  396 537 396 537 483 681 c 1,14,-1
  592 681 l 1,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C six six
 EndChar
 
@@ -79345,6 +79681,7 @@ SplineSet
  401 48 401 48 349 90.5 c 128,-1,39
  297 133 297 133 238 196 c 1,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C six seven
 EndChar
 
@@ -79495,6 +79832,7 @@ SplineSet
  249 80 249 80 286 48.5 c 128,-1,180
  323 17 323 17 364 -5 c 1,144,145
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C five seven
 EndChar
 
@@ -79541,6 +79879,7 @@ SplineSet
  479 252 479 252 548 288 c 1,39,-1
  548 312 l 1,24,25
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C four seven
 EndChar
 
@@ -79597,6 +79936,7 @@ SplineSet
  90 351 l 1,47,-1
  90 45 l 1,44,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C six three
 EndChar
 
@@ -79649,6 +79989,7 @@ SplineSet
  282 201 l 1,45,46
  259 213 259 213 259 243 c 0,33,34
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C six four
 EndChar
 
@@ -79676,6 +80017,7 @@ SplineSet
  662 754 l 1,11,-1
  719 754 l 1,8,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C three six
 EndChar
 
@@ -79703,6 +80045,7 @@ SplineSet
  388 754 l 1,11,-1
  445 754 l 1,8,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C three five
 EndChar
 
@@ -79725,6 +80068,7 @@ SplineSet
  458 754 l 1,7,-1
  515 754 l 1,4,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C three three
 EndChar
 
@@ -79742,6 +80086,7 @@ SplineSet
  34 612 l 1,3,-1
  646 612 l 1,0,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C four two
 EndChar
 
@@ -79764,6 +80109,7 @@ SplineSet
  603 569 l 1,7,-1
  77 569 l 1,4,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C four one
 EndChar
 
@@ -79799,6 +80145,7 @@ SplineSet
  219 160 l 1,19,-1
  192 187 l 1,8,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C five zero
 EndChar
 
@@ -79858,6 +80205,7 @@ SplineSet
  122 525 122 525 96.5 465.5 c 128,-1,51
  71 406 71 406 71 339 c 0,32,33
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C five one
 EndChar
 
@@ -79912,6 +80260,7 @@ SplineSet
  416 -51 l 1,58,-1
  416 63 l 1,0,1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C eight three
 EndChar
 
@@ -79968,6 +80317,7 @@ SplineSet
  45 603 l 1,47,-1
  930 603 l 1,44,-1
 EndSplineSet
+Validated: 1
 Ligature2: "Ligaturen Substitution Nachschlagetabelle 7 Subtabelle" uni200C seven nine
 EndChar
 
@@ -80028,6 +80378,68 @@ SplineSet
  39 395 39 395 33 395 c 0,64,65
  20 395 20 395 16.5 397.5 c 128,-1,66
  13 400 13 400 13 409 c 0,0,1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0364
+Encoding: 868 868 334
+Width: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-55 657 m 0,0,1
+ -55 677.799804688 -55 677.799804688 -51 692.599609375 c 128,-1,2
+ -47 707.400390625 -47 707.400390625 -39.7998046875 717.599609375 c 128,-1,3
+ -32.6005859375 727.799804688 -32.6005859375 727.799804688 -22.400390625 733.799804688 c 128,-1,4
+ -12.2001953125 739.799804688 -12.2001953125 739.799804688 0.2001953125 743 c 0,5,6
+ 9.7998046875 745.400390625 9.7998046875 745.400390625 18.3994140625 749 c 128,-1,7
+ 27 752.599609375 27 752.599609375 30.2001953125 752.599609375 c 0,8,9
+ 31.7998046875 752.599609375 31.7998046875 752.599609375 35.2001953125 748.599609375 c 128,-1,10
+ 38.599609375 744.599609375 38.599609375 744.599609375 43 738 c 128,-1,11
+ 47.3994140625 731.400390625 47.3994140625 731.400390625 52 723.599609375 c 128,-1,12
+ 56.599609375 715.799804688 56.599609375 715.799804688 60.599609375 708.400390625 c 128,-1,13
+ 64.599609375 701 64.599609375 701 67 694.599609375 c 128,-1,14
+ 69.3994140625 688.200195312 69.3994140625 688.200195312 69.3994140625 685 c 0,15,16
+ 69.3994140625 680.599609375 69.3994140625 680.599609375 58.3994140625 674.799804688 c 128,-1,17
+ 47.3994140625 669 47.3994140625 669 32.599609375 663.200195312 c 128,-1,18
+ 17.7998046875 657.400390625 17.7998046875 657.400390625 2.599609375 652.799804688 c 128,-1,19
+ -12.6005859375 648.200195312 -12.6005859375 648.200195312 -21 646.200195312 c 1,20,21
+ -21 640.200195312 -21 640.200195312 -18.2001953125 629.400390625 c 128,-1,22
+ -15.400390625 618.599609375 -15.400390625 618.599609375 -10.400390625 608.400390625 c 128,-1,23
+ -5.400390625 598.200195312 -5.400390625 598.200195312 1 590.599609375 c 128,-1,24
+ 7.3994140625 583 7.3994140625 583 14.599609375 583 c 0,25,26
+ 18.599609375 583.400390625 18.599609375 583.400390625 26.3994140625 586.799804688 c 128,-1,27
+ 34.2001953125 590.200195312 34.2001953125 590.200195312 42.3994140625 594 c 128,-1,28
+ 50.599609375 597.799804688 50.599609375 597.799804688 57.599609375 600.799804688 c 128,-1,29
+ 64.599609375 603.799804688 64.599609375 603.799804688 66.599609375 603.799804688 c 0,30,31
+ 70.2001953125 603.799804688 70.2001953125 603.799804688 71.3994140625 601 c 128,-1,32
+ 72.599609375 598.200195312 72.599609375 598.200195312 72.599609375 595.400390625 c 256,33,34
+ 72.599609375 592.599609375 72.599609375 592.599609375 68 589.400390625 c 128,-1,35
+ 63.3994140625 586.200195312 63.3994140625 586.200195312 56.3994140625 582.599609375 c 128,-1,36
+ 49.3994140625 579 49.3994140625 579 40.7998046875 575.200195312 c 128,-1,37
+ 32.2001953125 571.400390625 32.2001953125 571.400390625 23.7998046875 567.400390625 c 0,38,39
+ 13.3994140625 562.599609375 13.3994140625 562.599609375 6 558 c 128,-1,40
+ -1.400390625 553.400390625 -1.400390625 553.400390625 -4.6005859375 553.400390625 c 0,41,42
+ -10.6005859375 553.400390625 -10.6005859375 553.400390625 -19.400390625 560.400390625 c 128,-1,43
+ -28.2001953125 567.400390625 -28.2001953125 567.400390625 -36 580.599609375 c 128,-1,44
+ -43.7998046875 593.799804688 -43.7998046875 593.799804688 -49.400390625 613 c 128,-1,45
+ -55 632.200195312 -55 632.200195312 -55 657 c 0,0,1
+29 683.400390625 m 256,46,47
+ 29 685.799804688 29 685.799804688 26.7998046875 691 c 128,-1,48
+ 24.599609375 696.200195312 24.599609375 696.200195312 21.3994140625 702 c 128,-1,49
+ 18.2001953125 707.799804688 18.2001953125 707.799804688 14.599609375 713.200195312 c 128,-1,50
+ 11 718.599609375 11 718.599609375 7.7998046875 722.200195312 c 1,51,-1
+ -8.6005859375 717 l 2,52,53
+ -13 715.400390625 -13 715.400390625 -15.6005859375 712 c 128,-1,54
+ -18.2001953125 708.599609375 -18.2001953125 708.599609375 -19.400390625 702.400390625 c 128,-1,55
+ -20.6005859375 696.200195312 -20.6005859375 696.200195312 -20.7998046875 686.599609375 c 128,-1,56
+ -21 677 -21 677 -21 663.400390625 c 1,57,58
+ -12.6005859375 665 -12.6005859375 665 -3.6005859375 667.400390625 c 128,-1,59
+ 5.3994140625 669.799804688 5.3994140625 669.799804688 12.599609375 672.599609375 c 128,-1,60
+ 19.7998046875 675.400390625 19.7998046875 675.400390625 24.3994140625 678.200195312 c 128,-1,61
+ 29 681 29 681 29 683.400390625 c 256,46,47
 EndSplineSet
 EndChar
 EndChars
