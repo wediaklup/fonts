@@ -7,3 +7,5 @@
 ### Normalfraktur
 * Added Combining Letter E at `U+0364 [COMBINING LATIN SMALL LETTER E]`. Combines with `a`, `o` and `u`.
 * Added `ſ` (Long s) at `U+017F`
+### Mars-Fraktur
+* Added Combining Letter E at `U+0364 [COMBINING LATIN SMALL LETTER E]`. Combines with `a`, `o` and `u`.
